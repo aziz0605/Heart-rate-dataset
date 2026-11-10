@@ -99,6 +99,9 @@ The project includes a feature correlation heatmap using Seaborn.
 
 The heatmap helps understand relationships between numerical health-related features.
 
+<img width="839" height="528" alt="image" src="https://github.com/user-attachments/assets/f41e95c2-7d22-4f87-92cc-cd5d5ed7ed29" />
+
+
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
